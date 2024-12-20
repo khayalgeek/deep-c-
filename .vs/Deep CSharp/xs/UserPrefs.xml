@@ -1,5 +1,9 @@
 ﻿<Properties StartupConfiguration="{A5FFF405-13B3-4F42-B2C4-C26F1FD54C47}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassDefine FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.DebuggingService.Breakpoints />
+  <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DayOne/Program.cs">
     <Files>
       <File FileName="DayOne/Program.cs" Line="30" Column="41" />
@@ -19,10 +23,5 @@
       </Pad>
     </Pads>
   </MonoDevelop.Ide.Workbench>
-  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
-  <MultiItemStartupConfigurations />
-  <MonoDevelop.Ide.DebuggingService.Breakpoints>
-    <BreakpointStore />
-  </MonoDevelop.Ide.DebuggingService.Breakpoints>
   <MonoDevelop.Ide.ItemProperties.DayOne PreferredExecutionTarget="MonoDevelop.Default" />
 </Properties>
