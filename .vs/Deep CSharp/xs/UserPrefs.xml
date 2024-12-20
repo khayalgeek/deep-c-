@@ -1,7 +1,8 @@
-﻿<Properties StartupConfiguration="{A5FFF405-13B3-4F42-B2C4-C26F1FD54C47}|Default">
-  <MonoDevelop.Ide.ItemProperties.ClassDefine FirstBuild="True" />
+﻿<Properties StartupConfiguration="{04E408A9-E93B-427A-B390-7AC09D0715F5}|Default">
+  <MonoDevelop.Ide.ItemProperties.ClassDefine PreferredExecutionTarget="MonoDevelop.Default" />
   <MonoDevelop.Ide.DebuggingService.PinnedWatches />
   <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" />
+  <MonoDevelop.Ide.ItemProperties.FieldAndProperty FirstBuild="True" />
   <MonoDevelop.Ide.DebuggingService.Breakpoints />
   <MultiItemStartupConfigurations />
   <MonoDevelop.Ide.Workbench ActiveDocument="DayOne/Program.cs">
