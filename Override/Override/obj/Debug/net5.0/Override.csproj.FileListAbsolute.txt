@@ -1,0 +1,16 @@
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override.deps.json
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override.runtimeconfig.json
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override.runtimeconfig.dev.json
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override.dll
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/bin/Debug/net5.0/Override.pdb
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.csproj.AssemblyReference.cache
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.AssemblyInfoInputs.cache
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.AssemblyInfo.cs
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.csproj.CoreCompileInputs.cache
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.dll
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/refint/Override.dll
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.pdb
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/Override.genruntimeconfig.cache
+/Users/xayalbinnatov/Desktop/deep-csharp/Override/Override/obj/Debug/net5.0/ref/Override.dll
