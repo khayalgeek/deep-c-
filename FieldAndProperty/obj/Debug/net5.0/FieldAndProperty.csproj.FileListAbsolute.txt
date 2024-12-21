@@ -1,0 +1,16 @@
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty.deps.json
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty.runtimeconfig.json
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty.runtimeconfig.dev.json
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty.dll
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/bin/Debug/net5.0/FieldAndProperty.pdb
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.csproj.AssemblyReference.cache
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.GeneratedMSBuildEditorConfig.editorconfig
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.AssemblyInfoInputs.cache
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.AssemblyInfo.cs
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.csproj.CoreCompileInputs.cache
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.dll
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/refint/FieldAndProperty.dll
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.pdb
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/FieldAndProperty.genruntimeconfig.cache
+/Users/xayalbinnatov/Desktop/Deep CSharp/FieldAndProperty/obj/Debug/net5.0/ref/FieldAndProperty.dll
